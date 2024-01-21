@@ -1,0 +1,47 @@
+// Tipografias
+$fuente-principal: "Onest", sans-serif;
+$fuente-secundaria: "Roboto", sans-serif;
+
+// Colores
+$vista-white-50: #fffafb;
+$vista-white-100: #ffe0e6;
+$vista-white-200: #ffc6d1;
+$vista-white-300: #ff9eb1;
+$vista-white-400: #ff6685;
+$vista-white-500: #fd365e;
+$vista-white-600: #eb1741;
+$vista-white-700: #c60f34;
+$vista-white-800: #a3112e;
+$vista-white-900: #87152c;
+$vista-white-950: #4a0513;
+
+$white-50: #ffffff;
+$white-100: #efefef;
+$white-200: #dcdcdc;
+$white-300: #bdbdbd;
+$white-400: #989898;
+$white-500: #7c7c7c;
+$white-600: #656565;
+$white-700: #525252;
+$white-800: #464646;
+$white-900: #3d3d3d;
+$white-950: #292929;
+
+$black-50: #f6f6f6;
+$black-100: #e7e7e7;
+$black-200: #d1d1d1;
+$black-300: #b0b0b0;
+$black-400: #888888;
+$black-500: #6d6d6d;
+$black-600: #5d5d5d;
+$black-700: #4f4f4f;
+$black-800: #454545;
+$black-900: #3d3d3d;
+$black-950: #000000;
+
+// Tamaños para mixins
+//Tamaños media query
+$telefono : 480px;
+$tablet : 768px;
+$desktop : 992px;
+$desktopXL : 1200px;

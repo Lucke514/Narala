@@ -1,0 +1,39 @@
+{
+  "name": "narala",
+  "version": "1.0.0",
+  "description": "Ecomerce para tienda Narala",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "gulp",
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucke514/Narala.git"
+  },
+  "keywords": [
+    "npm",
+    "ejs",
+    "node.js",
+    "sass",
+    "JavaScript"
+  ],
+  "author": "Lucas Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucke514/Narala/issues"
+  },
+  "homepage": "https://github.com/Lucke514/Narala#readme",
+  "devDependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "sass": "^1.70.0"
+  }
+}
